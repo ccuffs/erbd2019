@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programação &#8211; ERBD</title>
+	<atom:link href="/erbd2019/programacao/feed/" rel="self" type="application/rss+xml" />
+	<link>/erbd2019</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Mon, 08 Apr 2019 17:42:33 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.6</generator>
+	<item>
+		<title>Palestra 2</title>
+		<link>/erbd2019/programacao/palestra-2/</link>
+		<pubDate>Tue, 05 Feb 2019 11:18:32 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=101</guid>
+		<description><![CDATA[Ciência de Dados no Itaú Unibanco Resumo: A palestra dará uma visão geral das iniciativas de Big Data no Itaú Unibanco, com particular ênfase em aplicações de ciência de dados para o negócio. Nesse contexto, o papel do cientista de dados será discutido. Dois domínios de aplicação (detecção de fraudes e reconhecimento de assinaturas) serão [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Ciência de Dados no Itaú Unibanco</strong></p>
+<p><b>Resumo:</b> A palestra dará uma visão geral das iniciativas de Big Data no Itaú Unibanco, com particular ênfase em aplicações de ciência de dados para o negócio. Nesse contexto, o papel do cientista de dados será discutido. Dois domínios de aplicação (detecção de fraudes e reconhecimento de assinaturas) serão utilizados para tornar a palestra mais concreta. Desafios e tendências para o futuro de aplicações baseadas em aprendizado de máquina também serão apresentadas.</p>
+<p><b>Diego Wesllen da Silva</b> é cientista de dados coordenador do Itaú Unibanco. Formou-se bacharel em matemática pelo IME-USP em 2011 e fez seu mestrado em estatística, também pelo IME-USP, em que estudou análise de sensibilidade em modelos bayesianos. Trabalha no Itaú Unibanco desde 2011 tendo passado pelas áreas de P&#038;D de Risco Operacional, P&#038;D de Risco de Crédito e Modelagem de Risco de Crédito. Desde 2016 trabalha no Centro de Excelência em Big Data Analytics com foco na realização de projetos de ciência de dados para diversas áreas de negócio.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Minicurso 3</title>
+		<link>/erbd2019/programacao/minicurso-3-2/</link>
+		<pubDate>Tue, 05 Feb 2019 11:17:40 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=100</guid>
+		<description><![CDATA[Detecção de Anomalias: Aplicações e Técnicas Resumo: Este mini-curso abordará o problema de detecção de anomalias/outliers, descrevendo as diversas áreas de aplicação (como segurança de redes, fraudes financeiras, redes sociais e monitoramento de sistemas). Cobriremos as principais técnicas e modelos utilizados. Exemplos de código na linguagem Python ilustrarão a discussão. Luiz Celso Gomes jr é [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Detecção de Anomalias: Aplicações e Técnicas</strong></p>
+<p><b>Resumo:</b> Este mini-curso abordará o problema de detecção de anomalias/outliers, descrevendo as diversas áreas de aplicação (como segurança de redes, fraudes financeiras, redes sociais e monitoramento de sistemas). Cobriremos as principais técnicas e modelos utilizados. Exemplos de código na linguagem Python ilustrarão a discussão.</p>
+<p><b>Luiz Celso Gomes jr</b> é professor na UTFPR, doutor em Ciência da Computação pela UNICAMP. Experiência profissional na indústria, governo, e academia. Pesquisador em Bancos de Dados há 10 anos, atuando também nas universidades de Waterloo (Canadá) e UPMC (França). Focado em pesquisa em Bancos de Dados e Redes Complexas no passado recente, também confortável e experiente em diversas áreas como Data Science, desenvolvimento web e administração de redes. Ocupou cargos de tomada de decisão, propondo, implementando e implantando novas tecnologias, levantando requisitos e projetando software, e liderando times de desenvolvimento.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Coffee-Break</title>
+		<link>/erbd2019/programacao/coffee-break-6/</link>
+		<pubDate>Tue, 05 Feb 2019 11:16:40 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=99</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Minicurso 3</title>
+		<link>/erbd2019/programacao/minicurso-3/</link>
+		<pubDate>Tue, 05 Feb 2019 11:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=98</guid>
+		<description><![CDATA[Detecção de Anomalias: Aplicações e Técnicas Resumo: Este mini-curso abordará o problema de detecção de anomalias/outliers, descrevendo as diversas áreas de aplicação (como segurança de redes, fraudes financeiras, redes sociais e monitoramento de sistemas). Cobriremos as principais técnicas e modelos utilizados. Exemplos de código na linguagem Python ilustrarão a discussão. Luiz Celso Gomes jr é [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Detecção de Anomalias: Aplicações e Técnicas</strong></p>
+<p><b>Resumo:</b> Este mini-curso abordará o problema de detecção de anomalias/outliers, descrevendo as diversas áreas de aplicação (como segurança de redes, fraudes financeiras, redes sociais e monitoramento de sistemas). Cobriremos as principais técnicas e modelos utilizados. Exemplos de código na linguagem Python ilustrarão a discussão.</p>
+<p><b>Luiz Celso Gomes jr</b> é professor na UTFPR, doutor em Ciência da Computação pela UNICAMP. Experiência profissional na indústria, governo, e academia. Pesquisador em Bancos de Dados há 10 anos, atuando também nas universidades de Waterloo (Canadá) e UPMC (França). Focado em pesquisa em Bancos de Dados e Redes Complexas no passado recente, também confortável e experiente em diversas áreas como Data Science, desenvolvimento web e administração de redes. Ocupou cargos de tomada de decisão, propondo, implementando e implantando novas tecnologias, levantando requisitos e projetando software, e liderando times de desenvolvimento.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Oficina 3</title>
+		<link>/erbd2019/programacao/oficina-3-2/</link>
+		<pubDate>Tue, 05 Feb 2019 11:14:51 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=97</guid>
+		<description><![CDATA[NewSQL: O que? Por que? Como? Resumo: NewSQL é o temo utilizado para designar um novo paradigma de Banco de Dados (BDs). São BDs que combinam a capacidade de lidar com grandes quantidades de dados dos BDs NoSQL com as características do modelo relacional (SQL, ACID). Nesta oficina serão apresentados os principais conceitos que envolvem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>NewSQL: O que? Por que? Como?</strong></p>
+<p><b>Resumo:</b> NewSQL é o temo utilizado para designar um novo paradigma de Banco de Dados (BDs). São BDs que combinam a capacidade de lidar com grandes quantidades de dados dos BDs NoSQL com as características do modelo relacional (SQL, ACID). Nesta oficina serão apresentados os principais conceitos que envolvem os BDs NewSQL e quais as situações em que estes bancos são a solução mais indicadaca. Além disso, será apresentado um exemplo prático utilizando o VoltDB (banco NewSQL mais proeminente) apontando suas características e demonstrando seu funcionamento.</p>
+<p><b>Geomar André Schreiner</b> é graduado em Ciência da Computação pela Universidade Federal da Fronteira Sul(2014), mestrado em Ciências da Computação pela Universidade Federal de Santa Catarina(2016) e atualmente é doutorando na UFSC (Uma abordagem para particionamento de dados híbrida e autônoma em bancos de dados NewSQL). Tem experiência na área de Ciência da Computação.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sessão Técnica 4</title>
+		<link>/erbd2019/programacao/sessao-tecnica-4/</link>
+		<pubDate>Tue, 05 Feb 2019 11:14:04 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=96</guid>
+		<description><![CDATA[Integração semântica entre dados dos domínios da educação e segurança: um caso em Curitiba Pedro Auceli (UTFPR), Rita Berardi (UTFPR), Nádia Kozievitch (UTFPR) Visualização de dados do Índice de Qualidade da Água aplicado a múltiplos pontos em um Sistema de Informação Ambiental Vania Elisabete Scheneider (UCS), Odacir Deonisio Graciolli (UCS), Helena Ribeiro (UCS), Adriano Silva [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><b>Integração semântica entre dados dos domínios da educação e segurança: um caso em Curitiba</b></br><br />
+Pedro Auceli (UTFPR), Rita Berardi (UTFPR), Nádia Kozievitch (UTFPR) </br></br></p>
+<p><b>Visualização de dados do Índice de Qualidade da Água aplicado a múltiplos pontos em um Sistema de Informação Ambiental</b><br />
+Vania Elisabete Scheneider (UCS), Odacir Deonisio Graciolli (UCS), Helena Ribeiro (UCS), Adriano Silva (UCS), Mayara Cechinatto (UCS)</br></br></p>
+<p><b>REx &#8211; NoSQL Redis Schema Extraction Module</b><br />
+Angelo Frozza (IFC &#8211; Camboriú ), Geomar Schreiner (UFSC), Bruni R. L. Machado (UFSC), Ronaldo Mello (UFSC) </br></br></p>
+<p><b>Redes sociais intra-classe e desempenho acadêmico &#8211; uma análise inicial</b></br><br />
+Luiz Celso Gomes Jr (UTFPR)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Coffee-Break</title>
+		<link>/erbd2019/programacao/coffee-break-5/</link>
+		<pubDate>Tue, 05 Feb 2019 11:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=95</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Oficina 3</title>
+		<link>/erbd2019/programacao/oficina-3/</link>
+		<pubDate>Tue, 05 Feb 2019 11:11:21 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=94</guid>
+		<description><![CDATA[NewSQL: O que? Por que? Como? Resumo: NewSQL é o temo utilizado para designar um novo paradigma de Banco de Dados (BDs). São BDs que combinam a capacidade de lidar com grandes quantidades de dados dos BDs NoSQL com as características do modelo relacional (SQL, ACID). Nesta oficina serão apresentados os principais conceitos que envolvem [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>NewSQL: O que? Por que? Como?</strong></p>
+<p><b>Resumo:</b> NewSQL é o temo utilizado para designar um novo paradigma de Banco de Dados (BDs). São BDs que combinam a capacidade de lidar com grandes quantidades de dados dos BDs NoSQL com as características do modelo relacional (SQL, ACID). Nesta oficina serão apresentados os principais conceitos que envolvem os BDs NewSQL e quais as situações em que estes bancos são a solução mais indicadaca. Além disso, será apresentado um exemplo prático utilizando o VoltDB (banco NewSQL mais proeminente) apontando suas características e demonstrando seu funcionamento.</p>
+<p><b>Geomar André Schreiner</b> é graduado em Ciência da Computação pela Universidade Federal da Fronteira Sul(2014), mestrado em Ciências da Computação pela Universidade Federal de Santa Catarina(2016) e atualmente é doutorando na UFSC (Uma abordagem para particionamento de dados híbrida e autônoma em bancos de dados NewSQL). Tem experiência na área de Ciência da Computação.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Sessão Técnica 3</title>
+		<link>/erbd2019/programacao/sessao-tecnica/</link>
+		<pubDate>Tue, 05 Feb 2019 11:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=93</guid>
+		<description><![CDATA[Um Estudo Exploratório das Ferramentas de Código Aberto para a Replicação de Dados no PostgreSQL. Danilo Carlo (UTFPR), Darlan Andrade (UTFPR), Rafael Liberato (UTFPR), André Schwerz (UTFPR) Extração de característica para identificação de discurso de ódio em documentos . Cleiton Lima (UFFS ), Guilherme Dal Bianco (UFFS ) Consolidação de Bases para o Diagnóstico do [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Um Estudo Exploratório das Ferramentas de Código Aberto para a Replicação de Dados no PostgreSQL</strong>. </br><br />
+Danilo Carlo (UTFPR), Darlan Andrade (UTFPR), Rafael Liberato (UTFPR), André Schwerz (UTFPR)</br> </br></p>
+<p><strong>Extração de característica para identificação de discurso de ódio em documentos </strong>. </br><br />
+Cleiton Lima (UFFS ),<br />
+Guilherme Dal Bianco (UFFS )</p>
+<p></br><br />
+</br></p>
+<p><strong> Consolidação de Bases para o Diagnóstico do Distrito de Inovação de Blumenau </strong>	</br>João Fernandes (Furb ),Aurélio Hoppe (Furb),<br />
+		Christian Krambeck (FURB ),	Rosemeri Laurindo (FURB ),Julio Cesar Refosco (FURB ),	Ralf Marcos Ehmke (FURB )<br />
+</br><br />
+</br><br />
+<b>Detecção e Análise de Metáforas usadas em Fake News &#8212; resultados iniciais </b> </br><br />
+Leonardo da Silva (UTFPR), Luiz Filipe Cunha (UTFPR), Guilherme Pinto (UTFPR), Luiz Celso Gomes Jr (UTFPR) </br></br></p>
+<p><b>Avaliação de Abordagens Probabilísticas de Extração de Tópicos em Documentos Curtos</b> </br><br />
+Michel Costa (UFFS), Denio Duarte (UFFS ) </br></br></p>
+<p><b>Desenvolvimento de um sistema para a classificação de Fakenews acoplado à etapa de ETL de um Data Warehouse de Textos de Notícias em língua Portuguesa</b> </br><br />
+Roger Monteiro (UNIASSELVI), Rodrigo Nogueira (IFC &#8211; Camboriú), Greisse Moser (UNIASSELVI)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Painel</title>
+		<link>/erbd2019/programacao/painel/</link>
+		<pubDate>Tue, 05 Feb 2019 11:08:48 +0000</pubDate>
+		<dc:creator><![CDATA[erbdadmin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://cc.uffs.edu.br/erbd2019/?post_type=programacao&#038;p=92</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>
